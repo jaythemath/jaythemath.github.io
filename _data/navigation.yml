@@ -1,10 +1,10 @@
 # main links
 main:
-  - title: "카테고리"
-    url: /categories
-  - title: "태그"
-    url: /tags
+  - title: "수학"
+    url: /math/
+  - title: "컴퓨터?"
+    url: /computer/
   - title: "검색"
     url: /search/
   - title: "About"
-    url: /about/    
+    url: /about/       

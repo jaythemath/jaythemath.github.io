@@ -111,12 +111,12 @@ author:
   location         : "대한민국"
   email            :
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+    - label: "카테고리별 보기"
+      icon: "fas fa-fw fa-solid fa-folder-open"
+      url: "/categories"
+    - label: "태그별 보기"
+      icon: "fas fa-fw fa-solid fa-tags"
+      url: "/tags"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -130,6 +130,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
+author_profile: true
 # Site Footer
 footer:
   links:
